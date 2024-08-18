@@ -79,6 +79,12 @@ https://forms.gle/nxvk1GagY6KLgPt19
 ## Instructions for live event
 1. Create your own Github repository with an Apache 2.0 license
 2. Open local branch that reflects your project name, for example, "email-sender".
-3. Set git remote URL to https://github.com/Attention-Network/code-night-challenge-1 and push latest commit from your local branch to remote branch
+3. Set a secondary git remote origin URL to https://github.com/Attention-Network/code-night-challenge-1 and push latest commit from your local branch to remote branch
 4. Make sure to have a Readme.md that explains how to use your program.
 5. Include use cases in your Readme.
+
+If you have questions, email tanveer@theattention.network.
+
+Code away! Let's build something useful.
+
+The best project will receive 5000 BDT in prize money, and top 3 projects will be highlighted across all The Attention Network media channels.
