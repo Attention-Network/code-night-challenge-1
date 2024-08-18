@@ -24,7 +24,7 @@ Studio experience:
 
 ## Code Night Challenge 1
 
-Code Night Theme: “Automating Your Workflow: Build a Simple Task Automation Script”
+“Automating Your Workflow: Build a Simple Task Automation Script”
 
 Concept:
 In this session, you’ll have the opportunity to create simple Python scripts that automate everyday tasks. Whether it’s organizing your files, sending reminder emails, scraping data from websites, or generating reports, the focus will be on practical and accessible projects. By the end of the night, you’ll walk away with a tool that streamlines your daily routine, making your life easier and more efficient.
@@ -63,3 +63,15 @@ Ritual Outcomes:
 Venue:
 
 The Attention Network (offline only)
+
+Online submissions:
+
+We will take repository pull requests in the main challenge repository (folder) after the event ends midnight. Please submit your requests written first at tanveer@theattention.network. We will promote and possibly sponsor good projects.
+
+Timing:
+
+6pm till midnight
+
+Registration form: 
+
+https://forms.gle/nxvk1GagY6KLgPt19
