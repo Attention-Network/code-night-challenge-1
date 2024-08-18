@@ -75,3 +75,9 @@ Timing:
 Registration form: 
 
 https://forms.gle/nxvk1GagY6KLgPt19
+
+## Instructions for live event
+1. Create your own Github repository with an Apache 2.0 license
+2. We will fork the latest main branch of your repo after midnight
+3. Make sure to have a Readme.md that explains how to use your program.
+4. Include use cases in your Readme.
