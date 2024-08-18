@@ -66,7 +66,7 @@ The Attention Network (offline only)
 
 Online submissions:
 
-We will take repository pull requests in the main challenge repository (folder) after the event ends midnight. Please submit your requests written first at tanveer@theattention.network. We will promote and possibly sponsor good projects.
+We will take project branch (read further instructions below) pushes in the main challenge repository (folder) after the event ends midnight. We will promote and possibly sponsor good projects.
 
 Timing:
 
