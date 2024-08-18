@@ -78,6 +78,7 @@ https://forms.gle/nxvk1GagY6KLgPt19
 
 ## Instructions for live event
 1. Create your own Github repository with an Apache 2.0 license
-2. We will fork the latest main branch of your repo after midnight
-3. Make sure to have a Readme.md that explains how to use your program.
-4. Include use cases in your Readme.
+2. Open local branch that reflects your project name, for example, "email-sender".
+3. Set git remote URL to https://github.com/Attention-Network/code-night-challenge-1 and push latest commit from your local branch to remote branch
+4. Make sure to have a Readme.md that explains how to use your program.
+5. Include use cases in your Readme.
