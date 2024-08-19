@@ -62,13 +62,13 @@ Ritual Outcomes:
 
 Venue:
 
-The Attention Network (offline only)
+The Attention Network (live coding happens here)
 
 Online submissions:
 
 We will take project branch (read further instructions below) pushes in the main challenge repository (folder) after the event ends midnight. We will promote and possibly sponsor good projects.
 
-Timing:
+Code Night Timing:
 
 6pm till midnight
 
